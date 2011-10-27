@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://paul.rosania.org/writings
+title: House of Rosania
+subtitle: Delicious musings about technology and entrepreneurship
+author: Paul Rosania
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -14,20 +14,20 @@ simple_search: http://google.com/search
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /writings/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: paul.rosania@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /writings
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/writings
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -56,13 +56,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: paulrosania
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: paulrosania
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -79,7 +79,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: paulrosania
 pinboard_count: 3
 
 # Delicious
@@ -87,11 +87,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: paulrosania
 disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id:
-   
+
 # Facebook Like
-facebook_like: true   
+facebook_like: true
