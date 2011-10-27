@@ -1,3 +1,7 @@
+## What is this?
+
+This is a blog. Paul Rosania's blog in fact. It is powered by Octopress.
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
