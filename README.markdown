@@ -1,3 +1,5 @@
+# House of Rosania
+
 ## What is this?
 
 This is a blog. Paul Rosania's blog in fact. It is powered by Octopress.
