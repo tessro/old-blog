@@ -1,2 +1,19 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+body > header {
+  h1 {
+    display: block;
+
+    a, a:visited, a:hover {
+      display: block;
+      height: 71px;
+      text-indent: -9999px;
+      background: url('/writings/images/header.png') 50% 0 no-repeat;
+    }
+  }
+
+  h2 {
+    text-align: center;
+  }
+}
