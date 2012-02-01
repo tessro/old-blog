@@ -1,7 +1,65 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+
+body {
+  @include background(linear-gradient(top, rgba(25,25,25,0.8),
+                                           rgba(25,25,25,0.6) 120px,
+                                           rgba(25,25,25,0.0) 250px),
+                      linear-gradient(left, rgba(255,255,255,1),
+                                            rgba(255,255,255,1)   100px,
+                                            rgba(255,255,255,0.8) 800px,
+                                            rgba(255,255,255,0.5) 900px,
+                                            rgba(255,255,255,0)  1000px),
+                      url('/writings/images/paul-big.jpg') no-repeat fixed 100% 50% #fff);
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
+
+body, header, nav, #main, footer {
+  max-width: none;
+  margin: 0;
+}
+
+header, nav, #main, footer {
+  max-width: none;
+}
+
+nav, footer {
+  width: 790px;
+}
+
+header, #main {
+  width: 900px;
+}
+
+#main {
+  background: transparent;
+}
+
+#content {
+  background-color: transparent;
+  margin-right: 0;
+  border: none;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+h3 {
+  font-weight: 600;
+}
+
 body > header {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  background: none;
   h1 {
     display: block;
 
@@ -9,11 +67,13 @@ body > header {
       display: block;
       height: 71px;
       text-indent: -9999px;
-      background: url('/writings/images/header.png') 50% 0 no-repeat;
+      background: url('/writings/images/header.png') no-repeat 0 0;
     }
   }
 
   h2 {
     text-align: center;
+    width: 900px;
+    color: #bbb;
   }
 }
