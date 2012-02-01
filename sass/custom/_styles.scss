@@ -16,17 +16,23 @@ body {
   font-weight: 400;
 }
 
-body, header, nav, #main, footer {
+body, header, nav, #main, body > footer {
   max-width: none;
   margin: 0;
 }
 
-header, nav, #main, footer {
+header, nav, #main, body > footer {
   max-width: none;
 }
 
-nav, footer {
+nav, body > footer {
   width: 790px;
+}
+
+body > footer {
+  @include text-shadow(none);
+  margin-bottom: 0;
+  background: none;
 }
 
 header, #main {
