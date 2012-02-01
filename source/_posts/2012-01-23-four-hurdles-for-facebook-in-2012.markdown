@@ -3,6 +3,7 @@ layout: post
 title: "Four Hurdles for Facebook in 2012"
 date: 2012-01-23 11:23
 comments: true
+published: false
 categories: 
 ---
 
