@@ -3,16 +3,9 @@
 
 
 body {
-  @include background(linear-gradient(top, rgba(25,25,25,0.8),
-                                           rgba(25,25,25,0.6) 120px,
-                                           rgba(25,25,25,0.0) 250px),
-                      linear-gradient(left, rgba(255,255,255,1),
-                                            rgba(255,255,255,1)   100px,
-                                            rgba(255,255,255,0.8) 800px,
-                                            rgba(255,255,255,0.5) 900px,
-                                            rgba(255,255,255,0)  1000px),
-                      url('/writings/images/paul-big.jpg') no-repeat fixed 100% 50% #fff);
+  background: #fff;
   font-family: 'Open Sans';
+  font-size: 62.5%;
   font-weight: 400;
 }
 
@@ -25,18 +18,12 @@ header, nav, #main, body > footer {
   max-width: none;
 }
 
-nav, body > footer {
-  width: 790px;
+body > header, #main {
+  margin-left: 220px;
 }
 
-body > footer {
-  @include text-shadow(none);
-  margin-bottom: 0;
-  background: none;
-}
-
-header, #main {
-  width: 900px;
+body > footer, body > header, #main {
+  width: 760px;
 }
 
 #main {
@@ -78,8 +65,7 @@ body > header {
   }
 
   h2 {
-    text-align: center;
-    width: 900px;
+    font-size: 1.4em;
     color: #bbb;
   }
 }
