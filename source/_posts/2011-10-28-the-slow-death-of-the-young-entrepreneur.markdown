@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "The Slow Death of the Young Entrepreneur"
-date: 2011-10-28 23:20
+date: 2012-07-01 23:20
 comments: true
-published: false
 categories: 
 ---
 
@@ -21,7 +20,14 @@ _What am I doing here? Am I on track? Are my life goals realistic? Does my
 perception of my self match up with reality? Am I too ambitious? Am I working
 hard enough? Too hard?_ I've begun to wonder: am I running out of time?
 
-I have an ambitious set of personal goals:
+When I was younger, I thought of my life in stages:
+
+1. Work your ass off for someone else, learn. (Age 22-27)
+2. Start your own company, work your ass off, get your "fuck you" money. (Age 28-32)
+3. Relax a little. Travel. Get married. Get back in shape. (Age 33-34)
+4. Start a family. Work hard, but for a stable number of hours. (Age 35+)
+
+Today, I'm still clinging to an ambitious set of personal goals:
 
 * Become an expert engineer
 * Lead a startup to marketplace success
@@ -30,34 +36,30 @@ I have an ambitious set of personal goals:
 * Build a family
 * Travel
 
-When I was younger, I thought of my life in stages:
-
-1. Work your ass off for someone else, learn. (Age 22-27)
-2. Start your own company, work your ass off, get your "fuck you" money. (Age 28-32)
-3. Relax a little. Travel. Get married. Get back in shape. (Age 33-34)
-4. Start a family. Work hard, but for a stable number of hours. (Age 35+)
-
-Here's what actually happened:
+And yet, despite my best efforts, here's how "the plan" has actually played out:
 
 * Age 22-23: Worked my ass off for a failing startup, had no idea what I was
   doing, learned a ton.
-* Age 24: Met the love of my life (and stupidly worried that it was way too
-  early for the plan.)
+* Age 24: Met a wonderful girl (and stupidly worried that it was way too early
+  for the plan.)
 * Age 25-27: Started a company, worked my ass off, had no idea what I was doing,
   learned a ton.
 * Age 28: Working my ass off for a startup that has real traction!
 
-I've wandered a bit, I'm not that far off from where I thought I'd be. So why is
-my subconscious torturing me at night? It turns out, I'm learning a lot of scary
-things as I get older:
+You could say I've wandered a bit. Still, I'm not that far off from where I
+thought I'd be. So why is my subconscious torturing me at night? It turns out,
+I'm learning a lot of scary things as I get older:
 
 * Planning for things doesn't make them happen.
 * Your body will deteriorate faster than you think.
 * Life doesn't wait for you.
 * The decisions you face get harder to make.
 
-Each of these lessons took a long time to accept. I could spend a whole post on
-each thing I learned. For now I'll just add a bit of color to each one.
+I find myself fighting these lessons, even as I begin to accept they are facts
+of life. The rest of this essay is an attempt to make sense of these things.
+What follows are deeply personal reflections. They may not apply to you, and I
+won't be insulted if you stop reading right here. Rather, telling these stories
+is an act of catharsis.
 
 ## Planning for things doesn't make them happen
 
