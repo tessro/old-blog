@@ -1,15 +1,11 @@
 ---
 layout: post
-title: "Four Hurdles for Facebook in 2012: Google"
+title: "Will Facebook Kill Google in 2012?"
 date: 2012-02-17 11:23
 comments: true
 published: true
 categories: 
 ---
-
-*This is Part One of a four-part post on Facebook's challenges in 2012. If you'd
-like to receive updates on this series, you can follow me on Twitter
-[here](https://twitter.com/paulrosania).*
 
 As Facebook gears up for the biggest IPO in history, it faces unprecedented
 challenges to future growth. With expansion rates in the US and Europe stabilizing,
@@ -18,16 +14,15 @@ a big black hole in Facebook's social graph, right where China should be. The
 Senate and FTC are eyeing Facebook as keenly as ever. To top things off,
 Facebook's largest competitor has made an open declaration of war.
 
-### Part One: Google
-
-Make no mistake, Google is putting everything on the line to gain a foothold
-against Facebook. For this reason alone, Google is the competitor to watch in 2012.
-Apple's recent announcement that OS X 10.8 Mountain Lion will have deep Twitter
-integration is perhaps a cause for concern, but Apple's userbase is dwarfed by
-the billion-plus people that visit a Google property each month. Add Google's deep
-talent pool, healthy balance sheet and insane profitability ($3.5B in Q4), and you
-have a company with a tremendous amount of stamina. Google is gearing up for a
-long war.
+Of all these things, competition with Google is perhaps the area over which
+Facebook has the most control. Make no mistake, Google is putting everything on
+the line to gain a foothold against Facebook. For this reason alone, Google is
+the competitor to watch in 2012.  Apple's recent announcement that OS X 10.8
+Mountain Lion will have deep Twitter integration is perhaps a cause for concern,
+but Apple's userbase is dwarfed by the billion-plus people that visit a Google
+property each month. Add Google's deep talent pool, healthy balance sheet and
+insane profitability ($3.5B in Q4), and you have a company with a tremendous
+amount of stamina. Google is gearing up for a long war.
 
 Anyone who doubts Google's intention of dominating the social space need look no
 farther than Google+.  Its deep integration across all Google properties was a
