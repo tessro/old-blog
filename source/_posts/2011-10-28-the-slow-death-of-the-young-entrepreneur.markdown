@@ -7,20 +7,25 @@ published: false
 categories: 
 ---
 
+*I wrote this essay in October of 2011. At the time, the emotions were too raw
+for me to share it beyond close family. Now that I've had some time to distance
+myself from it, I'm releasing it in the hope that it's helpful to anyone going
+through this strange and bewildering transition.*
+
 On August 28th, 2011 I celebrated my 28th birthday. There was not much fanfare.
 
 Two months later, I find myself unable to sleep. I stare at the ceiling while my
 mind races. I toss and turn during the night. I snooze my alarm until the last
-possible seconds. When I'm not working, my mind is racing with questions, like:
+possible second. When I'm not working, my mind is racing with questions, like:
 _What am I doing here? Am I on track? Are my life goals realistic? Does my
 perception of my self match up with reality? Am I too ambitious? Am I working
 hard enough? Too hard?_ I've begun to wonder: am I running out of time?
 
-I have a small set of personal goals:
+I have an ambitious set of personal goals:
 
 * Become an expert engineer
 * Lead a startup to marketplace success
-* Master my physical conditioning
+* Live a healthy lifestyle and get fit
 * Earn financial freedom
 * Build a family
 * Travel
@@ -35,14 +40,16 @@ When I was younger, I thought of my life in stages:
 Here's what actually happened:
 
 * Age 22-23: Worked my ass off for a failing startup, had no idea what I was
-doing, learned a ton.
-* Age 24: Met the love of my life (and worried that it was way too early in the plan!)
+  doing, learned a ton.
+* Age 24: Met the love of my life (and stupidly worried that it was way too
+  early for the plan.)
 * Age 25-27: Started a company, worked my ass off, had no idea what I was doing,
-learned a ton.
+  learned a ton.
 * Age 28: Working my ass off for a startup that has real traction!
 
-The reality is, I'm not that far off "the plan." So why is my subconscious
-torturing me at night? As I get older, I've learned a lot of scary things:
+I've wandered a bit, I'm not that far off from where I thought I'd be. So why is
+my subconscious torturing me at night? It turns out, I'm learning a lot of scary
+things as I get older:
 
 * Planning for things doesn't make them happen.
 * Your body will deteriorate faster than you think.
@@ -54,43 +61,43 @@ each thing I learned. For now I'll just add a bit of color to each one.
 
 ## Planning for things doesn't make them happen
 
-Life takes a meandering path. Part of that is the pure randomness of events. The
-rest, I'm beginning to realize, is because I do not know myself nearly as well
-as I've always pretended. When my first startup failed, I had no savings, and I
-took a corporate job instead of staying in the startup space. I rationalized it
-as the only logical choice, and a temporary decision while I got my feet below
-me. It took 2.5 years and acceptance into an accelerator to get me out the door
-again. During that time, in my head, I was just biding my time until it was the
-right moment to jump back into the startup world.
+My life has taken a meandering path. Part of that is the pure randomness of
+events. The rest, I'm beginning to realize, is because I do not know myself
+nearly as well as I've always pretended. When my first startup failed, I had no
+savings, and I took a corporate job instead of staying in the startup space. I
+rationalized it as the only logical choice, and a temporary decision while I got
+my feet below me. It took 2.5 years and acceptance into an accelerator to get me
+out the door again. During that time, in my head, I was just biding my time
+until it was the right moment to jump back into the startup world.
 
 Years can pass while you wait for the right moment for something. In grade
 school and college, I became too accustomed to being on a "track," knowing that
 if I followed it dutifully and excelled at every juncture, things would work out
 on their own. It took me 5 years of professional development to realize that
 following the obvious path was leading me toward a successful but uninteresting
-career. Quitting my job to found a startup was like ripping off a bandaid.
+career. Quitting my job to start a startup was like ripping off a bandaid.
 Painful (scary even!) but worth it. Despite the company not working out, I've
 taken back control of my career progression, and I'm doing what I love.
 
 ## Your body will deteriorate faster than you think
 
-I graduated high school in 2001 a member of the varsity track and field team. I
-was not the fastest runner but I was fit enough to hold my own. Then college
-happened. From September of 2005 until November of 2010 I ran a combined total
-of 10 miles. (That's five years!) When I got back on the treadmill for the first
-time, running a single mile was so difficult that I had to use the stationary
-bike for a month instead, until my circulatory system could adapt to the
-elevated heart rate, and my knees to the constant pounding.
+I graduated high school in 2001 a member of the varsity track and field team.
+In college, I let go. By the time graduation rolled around, I had no exercise
+routine at all, and from September of 2005 until November of 2010 I ran a
+combined total of 10 miles. (That's five years!) When I got back on the
+treadmill for the first time, running a single mile was so difficult that I had
+to use the stationary bike for a month instead, until my circulatory system
+could adapt to the elevated heart rate, and my knees to the constant pounding.
 
-That experience was like a spirtual awakening. Instantly, exercise was a priority
-for me. I realized that if I didn't push to get in shape right away, despite the
-tremendous difficulty, I might possibly reach a point where the pain was too
-great and the slow progress too discouraging.
+That experience was like a spiritual awakening. Instantly, exercise was a
+priority for me. I realized that if I didn't push to get in shape right away,
+despite the tremendous difficulty, I might possibly reach a point where the pain
+was too great and the slow progress too discouraging. How hard would things be
+at 35, if they were this hard at 27?
 
-Luckily I persisted, and (fingers crossed!) I'm training for my first half
-marathon. But it was my first glimpse at mortality. If I want to throw a
-football with my kids or chase my grandchildren in the yard, I need to invest in
-exercise every week for the rest of my life.
+Luckily I persisted, but it was my first glimpse at mortality. If I want to
+throw a football with my kids or chase my grandchildren in the yard, I need to
+invest in exercise every week for the rest of my life.
 
 ## Life doesn't wait for you
 
@@ -101,8 +108,7 @@ abuse, I asked her out and we've been dating since.
 
 I wasn't ready for a long term relationship when I was 24. In my mind, I had
 another 5 solid years of bachelordom and hard work before I'd even have to think
-about settling down, let alone making time for romantic dinners and movie
-nights.
+about settling down and making time for romantic dinners and movie nights.
 
 I worried a lot about fucking up the plan. After all, I had read so much about
 how family and startups don't mix, and how long nights at the office take their
@@ -119,7 +125,7 @@ we agreed to move there together.
 Two months later I got an email out of the blue from an entrepreneur whose blog
 I've read extensively, someone I deeply respect. The email led to a call, which
 led to a series of interviews and a job offer: in Palo Alto, California.
-Surprisingly, my girlfriend thought I should do it, and I ultimately did. It was
+Amazingly, my girlfriend thought I should do it, and I ultimately did. It was
 the hardest decision of my life.
 
 I'm not sure if I made the right choice. I think about it all the time. But the
@@ -128,31 +134,28 @@ carries. As you get older, decisions involve more tradeoffs. As I lie awake at
 night, I worry about the even heavier tradeoffs you have to make when you're
 choosing between your career and spending time with your wife and kids.
 
-(Personal aside: We're doing great! I'm flying to Chicago in a week; we see each
-other twice a month.)
-
 ## So am I running out of time?
 
 Yes and no. Maybe. Sort of. According to my life plan, I have 5 more years of
 hard work before it's time to settle down. That means I'm more than half done
 with the "glory" phase of my life.
 
-The good news is, life doesn't play out sequentially. I fear the effect of
-family on my freedom and desire to work marathon hours. I'm afraid of
-competition from the younger generation, unburdened by the complex aspects of
-later adult life. I worry that once the personal burdens grow, my aspirations
-will become impossible.
+Life doesn't play out sequentially. I fear the effect of family on my freedom
+and desire to work marathon hours. I'm afraid of competition from younger
+startupers, unburdened by the complex aspects of later adult life. I worry that
+once the personal burdens grow, my aspirations will become impossible.
 
-And yet, for all my efforts to focus on my professional life while I was young,
-my personal life advanced. When family comes along, I don't doubt that the
-reverse will be true. Life is a balancing act. At the same time, I'm gaining a
-deeper understanding of myself and a more profound appreciation for the
-shortness of life. I haven't squashed the fear, nor do I strongly desire to.
+And yet, despite my singular focus on my professional life while I was young,
+my personal life advanced. When family comes along, I maintain hope that the
+reverse will be true. Life is a balancing act. I may never achieve "the plan",
+but in a sense I've let go of that goal. I have a better understanding of myself
+and a more profound appreciation for the shortness of life. (As much as one can
+at 28!) I haven't squashed the fear, but I'm not totally sure I want to do that.
 Instead, I'm channeling it into my days. It gives me a drive, and purpose.
 
 Thanks for reading.
 
 ---
 
-Does this describe you? Have you had similar feelings or struggles? Please share your
-thoughts in the comments. I'd love to hear from you.
+Does this describe you? Have you had similar feelings or struggles? You can
+reach me at @paulrosania or paul.rosania@gmail.com. I'd love to hear from you.
