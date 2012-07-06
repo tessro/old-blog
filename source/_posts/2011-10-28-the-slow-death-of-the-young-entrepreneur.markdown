@@ -161,4 +161,4 @@ Thanks for reading.
 ---
 
 Does this describe you? Have you had similar feelings or struggles? You can
-reach me at @paulrosania or paul.rosania@gmail.com. I'd love to hear from you.
+reach me at @paulrosania or paul@rosania.org. I'd love to hear from you.

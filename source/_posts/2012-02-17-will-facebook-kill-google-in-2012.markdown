@@ -97,4 +97,4 @@ they are a multi-billion dollar company and they employing some of the smartest
 people in the world. There is too much at stake for Facebook to wait.
 
 *What do you think? Let me know [@paulrosania](http://twitter.com/paulrosania) or
-[paul.rosania@gmail.com](mailto:paul.rosania@gmail.com).*
+[paul@rosania.org](mailto:paul@rosania.org).*
