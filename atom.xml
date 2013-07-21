@@ -1,0 +1,29 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.name }}</title>
+  <link href="http://paul.rosania.org/writings"/>
+  <link type="application/atom+xml" rel="self" href="http://paul.rosania.org/writings/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://paul.rosania.org/</id>
+  <author>
+    <name>Paul Rosania</name>
+    <email>paul@rosania.org</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://paul.rosania.org/writings{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://paul.rosania.org/writings{{ post.url }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Paul Rosania</name>
+      <uri>http://paul.rosania.org/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
