@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width"/>
-    <link rel="alternate" type="application/atom+xml" href="atom.xml" title="Atom feed"/>
-    <link rel="stylesheet" href="/css/syntax.css"/>
-    <link rel="stylesheet" href="/css/main.css"/>
+    <link rel="alternate" type="application/atom+xml" href="{{ site.root }}/atom.xml" title="Atom feed"/>
+    <link rel="stylesheet" href="{{ site.root }}/css/syntax.css"/>
+    <link rel="stylesheet" href="{{ site.root }}/css/main.css"/>
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700" rel="stylesheet" type="text/css"/>
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"/>
   </head>
@@ -16,8 +16,8 @@
     <div class="container">
       <div class="site">
         <div class="header">
-          <a href="/"><img class="me" src="/img/paul-small.jpg" /></a>
-          <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+          <a href="{{ site.root }}"><img class="me" src="{{ site.root }}/img/paul-small.jpg" /></a>
+          <h1 class="title"><a href="{{ site.root }}">{{ site.name }}</a></h1>
           <div class="contact">
             Hi! I'm Paul. I work at Twitter.<br/>
             You should follow me at <a href="http://twitter.com/ptr">@ptr</a>.<br/>
@@ -32,12 +32,12 @@
             <a class="extra" href="https://twitter.com/ptr"><i class="icon-twitter"></i></a>
             <a class="extra" href="https://www.linkedin.com/in/paulrosania"><i class="icon-linkedin"></i></a>
             <a class="extra" href="https://github.com/paulrosania"><i class="icon-github"></i></a>
-            <a class="extra" href="/atom.xml"><i class="icon-rss"></i></a>
+            <a class="extra" href="{{ site.root }}/atom.xml"><i class="icon-rss"></i></a>
           </div>
           <div class="nav">
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/archive.html">archive</a>
-            <a class="extra" href="/about.html">about</a>
+            <a class="extra" href="{{ site.root }}">home</a>
+            <a class="extra" href="{{ site.root }}/archive.html">archive</a>
+            <a class="extra" href="{{ site.root }}/about.html">about</a>
           </div>
         </div>
       </div>

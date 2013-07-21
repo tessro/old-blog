@@ -4,8 +4,8 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ site.name }}</title>
-  <link href="http://paul.rosania.org/writings"/>
-  <link type="application/atom+xml" rel="self" href="http://paul.rosania.org/writings/atom.xml"/>
+  <link href="http://paul.rosania.org{{ site.root }}"/>
+  <link type="application/atom+xml" rel="self" href="http://paul.rosania.org{{ site.root }}/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://paul.rosania.org/</id>
   <author>
@@ -15,8 +15,8 @@ layout: nil
 
   {% for post in site.posts %}
   <entry>
-    <id>http://paul.rosania.org/writings{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://paul.rosania.org/writings{{ post.url }}"/>
+    <id>http://paul.rosania.org{{ site.root }}{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://paul.rosania.org{{ site.root }}{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>

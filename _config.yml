@@ -1,4 +1,5 @@
 name: Paul Rosania
 markdown: redcarpet
 pygments: true
+root: /writings
 permalink: /:year/:month/:day/:title
