@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "The Slow Death of the Young Entrepreneur"
-date: 2012-07-01 23:20
+date: 2013-08-07 21:11
 comments: true
-published: false
 categories: 
 ---
 
 *I wrote this essay in October of 2011. At the time, the emotions were too raw
-for me to share it beyond close family. Now that I've had some time to distance
-myself from it, I'm releasing it in the hope that it's helpful to anyone going
-through this strange and bewildering transition.*
+for me to share it beyond close family. As I approach 30, I'm releasing it in
+the hope that it's helpful to anyone going through this strange and bewildering
+transition.*
 
 On August 28th, 2011 I celebrated my 28th birthday. There was not much fanfare.
 
@@ -42,7 +41,7 @@ And yet, despite my best efforts, here's how "the plan" has actually played out:
 * Age 22-23: Worked my ass off for a failing startup, had no idea what I was
   doing, learned a ton.
 * Age 24: Met a wonderful girl (and stupidly worried that it was way too early
-  for the plan.)
+  for "the plan.")
 * Age 25-27: Started a company, worked my ass off, had no idea what I was doing,
   learned a ton.
 * Age 28: Working my ass off for a startup that has real traction!
@@ -58,9 +57,9 @@ I'm learning a lot of scary things as I get older:
 
 I find myself fighting these lessons, even as I begin to accept they are facts
 of life. The rest of this essay is an attempt to make sense of these things.
-What follows are deeply personal reflections. They may not apply to you, and I
-won't be insulted if you stop reading right here. Rather, telling these stories
-is an act of catharsis.
+These are deeply personal reflections. They may not apply to you, and I won't be
+insulted if you stop reading right here. I tell these stories mostly as an act
+of catharsis.
 
 ## Planning for things doesn't make them happen
 
@@ -93,7 +92,7 @@ to use the stationary bike for a month instead, until my circulatory system
 could adapt to the elevated heart rate, and my knees to the constant pounding.
 
 That experience was like a spiritual awakening. Instantly, exercise was a
-priority for me. I realized that if I didn't push to get in shape right away,
+priority for me. I realized that if I didn't push to get in shape right away
 despite the tremendous difficulty, I might possibly reach a point where the pain
 was too great and the slow progress too discouraging. How hard would things be
 at 35, if they were this hard at 27?
@@ -161,4 +160,4 @@ Thanks for reading.
 ---
 
 Does this describe you? Have you had similar feelings or struggles? You can
-reach me at @paulrosania or paul@rosania.org. I'd love to hear from you.
+reach me at @ptr or paul@rosania.org. I'd love to hear from you.
