@@ -1,5 +1,10 @@
 name: Paul Rosania
 markdown: redcarpet
 pygments: true
+host: paul.rosania.org
 root: /writings
 permalink: /:year/:month/:day/:title
+author:
+  name: Paul Rosania
+  email: paul@rosania.org
+  url: http://paul.rosania.org

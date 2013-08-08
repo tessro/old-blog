@@ -4,24 +4,24 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ site.name }}</title>
-  <link href="http://paul.rosania.org{{ site.root }}"/>
-  <link type="application/atom+xml" rel="self" href="http://paul.rosania.org{{ site.root }}/atom.xml"/>
+  <link href="http://{{ site.host }}{{ site.root }}"/>
+  <link type="application/atom+xml" rel="self" href="http://{{ site.host }}{{ site.root }}/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://paul.rosania.org/</id>
+  <id>http://{{ site.host }}/</id>
   <author>
-    <name>Paul Rosania</name>
-    <email>paul@rosania.org</email>
+    <name>{{ site.author.name }}</name>
+    <email>{{ site.author.email }}</email>
   </author>
 
   {% for post in site.posts %}
   <entry>
-    <id>http://paul.rosania.org{{ site.root }}{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://paul.rosania.org{{ site.root }}{{ post.url }}"/>
+    <id>http://{{ site.host }}{{ site.root }}{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://{{ site.host }}{{ site.root }}{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Paul Rosania</name>
-      <uri>http://paul.rosania.org/</uri>
+      <name>{{ site.author.name }}</name>
+      <uri>{{ site.author.url }}</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
