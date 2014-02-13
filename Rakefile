@@ -21,9 +21,9 @@ task :default => :serve
 
 desc "Deploy"
 task :deploy => :build do
-  user = "deploy"
+  user = "paul"
   host = "rosania.org"
-  path = "sites/paul.rosania.org/shared/writings/"
+  path = "/srv/www/paul.rosania.org/writings/"
 
   sh "rsync --compress --recursive --checksum --delete _site/ #{user}@#{host}:#{path}"
 end
