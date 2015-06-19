@@ -1,7 +1,8 @@
 name: Paul Rosania
 markdown: redcarpet
 highlighter: true
-root: /writings
+host: paul.rosania.org
+baseurl: /writings
 permalink: /:year/:month/:day/:title
 author:
   name: Paul Rosania

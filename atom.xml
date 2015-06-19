@@ -3,8 +3,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ site.name }}</title>
-  <link href="http://{{ site.host }}{{ site.root }}"/>
-  <link type="application/atom+xml" rel="self" href="http://{{ site.host }}{{ site.root }}/atom.xml"/>
+  <link href="http://{{ site.host }}{{ site.baseurl }}"/>
+  <link type="application/atom+xml" rel="self" href="http://{{ site.host }}{{ site.baseurl }}/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://{{ site.host }}/</id>
   <author>
@@ -14,8 +14,8 @@
 
   {% for post in site.posts %}
   <entry>
-    <id>http://{{ site.host }}{{ site.root }}{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://{{ site.host }}{{ site.root }}{{ post.url }}"/>
+    <id>http://{{ site.host }}{{ site.baseurl }}{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://{{ site.host }}{{ site.baseurl }}{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
