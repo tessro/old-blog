@@ -14,7 +14,7 @@ end
 
 desc "Serve locally"
 task :serve do
-  jekyll "serve --watch --baseurl /writings"
+  jekyll "serve --watch --baseurl /writings --host localhost"
 end
 
 task :default => :serve
