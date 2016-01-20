@@ -24,13 +24,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-h1 {
-  font-size: 200%;
-  margin-bottom: 1em;
-}
-h2 {
-  font-size: 160%;
-}
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -91,6 +84,11 @@ table {
   font-size: 80%;
   line-height: 140%;
   margin: 0 0 50px;
+}
+
+.site .header h1 {
+  font-size: 200%;
+  margin: 1em 0;
 }
 
 .site .header .contact {
@@ -176,13 +174,24 @@ table {
 
 /* standard */
 
-.post h2 {
+.post > h2 {
+  font-size: 160%;
   text-align: center;
 }
 
-.post h2 a {
-  color: inherit;
+.post > h2 a {
   text-decoration: inherit;
+  color: inherit;
+}
+
+.post .body h1 {
+  margin: 1.5em 0 .8em;
+  font-size: 140%;
+}
+
+.post .body h2 {
+  margin: 1.5em 0 .8em;
+  font-size: 120%;
 }
 
 .post .meta {
