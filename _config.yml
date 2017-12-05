@@ -8,3 +8,5 @@ author:
   name: Paul Rosania
   email: paul@rosania.org
   url: http://paul.rosania.org
+gems:
+  - jekyll-gist
