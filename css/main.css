@@ -91,6 +91,11 @@ table {
   margin: 1em 0;
 }
 
+.site .header img.me {
+  width: 180px;
+  height: 180px;
+}
+
 .site .header .contact {
   color: #888;
 }
